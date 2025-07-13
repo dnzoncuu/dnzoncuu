@@ -1,21 +1,18 @@
-### Merhaba, ben Deniz Berk Öncü 👋
+☄️ Hey! I'm Deniz Berk.
 
-💻 Bilgisayar Programcılığı mezunuyum ve Ankara'da yaşıyorum.  
-🎯 Yazılım geliştirme, sistem desteği ve IT altyapı konularına ilgi duyuyorum.  
-🛠️ Üniversite sürecimde teorik bilgilerimi staj deneyimimle pratiğe dökme fırsatı buldum.  
-📚 Öğrenmeye açık, çözüm odaklı ve disiplinli bir yapıya sahibim.  
-🔍 Şu anda kendimi yazılım alanında geliştirmeye odaklanıyorum (özellikle C#, Python ve temel SQL).  
+👨‍💻 I'm a Computer Programming graduate based in Ankara, Türkiye.
 
----
+🛠️ I have hands-on experience in IT support, system setup, and basic troubleshooting thanks to a full-time internship during my studies.
 
-### 🚀 Hedeflerim:
-- Yazılım geliştirme alanında uzmanlaşmak  
-- Ekip çalışmalarına dahil olmak ve yeni teknolojileri öğrenmek  
-- GitHub üzerinde küçük projeler geliştirerek deneyim kazanmak
+📚 I'm currently learning Python, C#, and SQL — and improving my skills in software development and system operations.
+
+🤖 I'm interested in technology, software, and everything related to IT.
+
+📫 How to reach me: denizberkoncu@example.com
 
 ---
 
-### 📫 Bana ulaşın:
-- 📧 denizberkoncu@example.com *(örnek mail, gerçek adresi yazabilirsin)*
-- 🌐 [LinkedIn Profilin](https://linkedin.com/in/kullanici-adin) *(isteğe bağlı)*
+Connect with me:
+
+[GitHub](https://github.com/denizberkoncu) • [LinkedIn](https://linkedin.com/in/denizberkoncu) *(isteğe bağlı güncelleyebilirsin)*
 
