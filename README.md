@@ -1,18 +1,16 @@
-☄️ Hey! I'm Deniz Berk.
+☄️ Merhaba! Ben Deniz Berk.
 
-👨‍💻 I'm a Computer Programming graduate based in Ankara, Türkiye.
+👨‍💻 Ankara’da yaşayan Bilgisayar Programcılığı mezunuyum.
 
-🛠️ I have hands-on experience in IT support, system setup, and basic troubleshooting thanks to a full-time internship during my studies.
+🛠️ Eğitimim sırasında tam zamanlı bir staj yaparak IT desteği, sistem kurulumu ve temel sorun giderme konularında pratik deneyim kazandım.
 
-📚 I'm currently learning Python, C#, and SQL — and improving my skills in software development and system operations.
+📚 Şu anda C# ve SQL öğreniyorum; yazılım geliştirme ve sistem operasyonları becerilerimi geliştiriyorum.
 
-🤖 I'm interested in technology, software, and everything related to IT.
+🤖 Teknoloji, yazılım ve IT ile ilgili her şeye ilgi duyuyorum.
 
-📫 How to reach me: denizberkoncu@example.com
 
----
+Benimle iletişime geçin:
 
-Connect with me:
-
-[GitHub](https://github.com/denizberkoncu) • [LinkedIn](https://linkedin.com/in/denizberkoncu) *(isteğe bağlı güncelleyebilirsin)*
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/denizberkoncu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denizberkoncu)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kullaniciadiniz)
