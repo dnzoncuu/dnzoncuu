@@ -1,16 +1,21 @@
-## Hi there 👋
+### Merhaba, ben Deniz Berk Öncü 👋
 
-<!--
-**dnzoncuu/dnzoncuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Bilgisayar Programcılığı mezunuyum ve Ankara'da yaşıyorum.  
+🎯 Yazılım geliştirme, sistem desteği ve IT altyapı konularına ilgi duyuyorum.  
+🛠️ Üniversite sürecimde teorik bilgilerimi staj deneyimimle pratiğe dökme fırsatı buldum.  
+📚 Öğrenmeye açık, çözüm odaklı ve disiplinli bir yapıya sahibim.  
+🔍 Şu anda kendimi yazılım alanında geliştirmeye odaklanıyorum (özellikle C#, Python ve temel SQL).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Hedeflerim:
+- Yazılım geliştirme alanında uzmanlaşmak  
+- Ekip çalışmalarına dahil olmak ve yeni teknolojileri öğrenmek  
+- GitHub üzerinde küçük projeler geliştirerek deneyim kazanmak
+
+---
+
+### 📫 Bana ulaşın:
+- 📧 denizberkoncu@example.com *(örnek mail, gerçek adresi yazabilirsin)*
+- 🌐 [LinkedIn Profilin](https://linkedin.com/in/kullanici-adin) *(isteğe bağlı)*
+
